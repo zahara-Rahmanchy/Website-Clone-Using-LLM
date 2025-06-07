@@ -15,7 +15,10 @@ uv sync
 ```
 
 ### Loading Environmental variables
-Please add API keys for both Hyperbrowser and Gemini API.
+Create a .env file in the root folder of backend and then add API Keys for the below variables
+  - HYPERBROWSER_API_KEY = 
+  - GEMINI_API_KEY =
+
 
 
 ### Running the Backend
